@@ -1,1 +1,3 @@
 Initial changes made to file1.txt.
+
+Additional changes made to file1.txt while on a feature branch.
